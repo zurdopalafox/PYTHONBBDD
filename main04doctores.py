@@ -53,6 +53,3 @@ elif (opcion ==4):
 elif (opcion ==5):
     dibujarDoctores()
 
-#    for miDoctor in misDoctores:
-#        print(f"El Nombre del Doctor {miDoctor.idDoctor} es : {miDoctor.nombre}, Dirección: {miDoctor.direccion}, Teléfono: {miDoctor.telefono}, Camas: {miDoctor.camas} ") 
-
